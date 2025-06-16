@@ -138,8 +138,8 @@ A API possui uma documentação interativa integrada com o Swagger UI, que pode 
 
 ## Grupo
 
-* Fellipe Freitas Bezerra Cardoso 5161168
-* Douglas Almeida
-* Tamyris Vitoria
+* Fellipe Freitas 5161168
+* Douglas Almeida 5160386
+* Tamyris Vitoria 5160937
 
 ---
