@@ -1,0 +1,19 @@
+# Ignorar o ambiente virtual
+venv/
+.venv/ # Caso seu ambiente virtual seja .venv
+
+# Ignorar o arquivo de banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de ambiente (se você usar .env para credenciais)
+.env
+
+# Ignorar arquivos de IDEs
+.idea/  # Para PyCharm
+.vscode/ # Para VS Code
